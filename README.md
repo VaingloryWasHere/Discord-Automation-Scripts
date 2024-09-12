@@ -1,5 +1,8 @@
 A collection of discord selfbot scripts that can automate many things. The scripts are called either through the command line ( requires tedious passing in all required arguments ) or
 through a launcher that comes ready-made.
+
+Edit 9/12/2024: Oh god. The code is ~~silly~~ *horrendous.* I didnt have any idea what I was doing back then ( I still don't, but hey at least there's improvement, or so I believe.) Anyways, feel free to make pull requests if u think u can fix my stupid code.
+
 # CAUTION!
 Selfboting is against discord TOS. So far I haven't received any action from discord on using any of the scripts on three accounts. However, it is still a risky thing to do. 
 I am not responsible for what happens to your account. Be aware of the risks as you use these scripts.
